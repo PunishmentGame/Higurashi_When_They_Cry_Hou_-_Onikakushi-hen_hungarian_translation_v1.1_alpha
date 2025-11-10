@@ -1,0 +1,1 @@
+Sziasztok! Néhányan biztos hallhattatok már a Higurashiról mint animéről. Ez azonban csak egy adaptáció, az eredeti alkotásról, ami egy vizuális regény, pedig egyáltalán nem találtam magyarítást. Így elhatároztam, hogy tanulásként/kihívásként elkezdem lefordítani. Bár még csak az 1. rész 1. fejezetéig jutottam, igyekszem folytatni ezt a projektet.
