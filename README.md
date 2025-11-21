@@ -2,7 +2,7 @@ Sziasztok! Néhányan biztos hallhattatok már a Higurashiról mint animéről. 
 
 TELEPÍTÉS:
 
-1/a. Nyisd meg a mellékelt .txt fájlt, majd az ebben található link segítségével töltsd le a magyarítást.
+1/a. Nyisd meg a mellékelt .txt fájlt, majd az ebben található GoogleDrive link segítségével töltsd le a magyarítást.
 
 1/b. Telepítsd a gépedre a "Higurashi When They Cry Hou - Ch.1 Onikakushi" című vizuális regényt! (Ingyenes játék Steamen)
 
@@ -28,9 +28,9 @@ TELEPÍTÉS:
 
 3. Nyisd meg a játék mappáját! (Játék ikonja a Steam könyvtáradban > Kezelés (fogaskerék szimbólum) > Kezelés > Helyi fájlok böngészése)
 
-4. Keresd meg az "Update" mappát! (HigurashiEp01_Data > StreamingAssets)
+4. Nyisd meg a "StreamingAssets" mappát! (HigurashiEp01_Data > StreamingAssets)
 
-5. Írd felül a "StreamingAssets"-ben található "Update" mappát az általam biztosított "Update" mappával.
+5. Írd felül a "StreamingAssets"-ben található mappákat az általam biztosított mappákkal.
 
 6. Amikor megkérdezi a játék, hogy milyen nyelven szeretnél játszani válaszd az angol nyelvet, ugyanis a játék angol részét módosítottam. Később a 07th-Modnak köszönhetően a játékon belül is válthatsz nyelvet az "L" billentyű lenyomásával.
 
