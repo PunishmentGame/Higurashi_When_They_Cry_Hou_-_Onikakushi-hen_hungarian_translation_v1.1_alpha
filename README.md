@@ -2,7 +2,9 @@ Sziasztok! Néhányan biztos hallhattatok már a Higurashiról mint animéről. 
 
 TELEPÍTÉS:
 
-1. Telepítsd a gépedre a "Higurashi When They Cry Hou - Ch.1 Onikakushi" című vizuális regényt! (Ingyenes játék Steamen)
+1/a. Nyisd meg a mellékelt .txt fájlt, majd az ebben található link segítségével töltsd le a magyarítást.
+
+1/b. Telepítsd a gépedre a "Higurashi When They Cry Hou - Ch.1 Onikakushi" című vizuális regényt! (Ingyenes játék Steamen)
 
 2. Modold a játékot a 07th-Moddal! (Bővített funkciókat tartalmaz a regényhez)
 
